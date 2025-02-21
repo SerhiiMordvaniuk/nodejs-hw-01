@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "f3e24be2-b344-4420-bb8f-efe2ce039303",
+    "name": "Mrs. Penny Will",
+    "phone": "1-773-539-8347 x824",
+    "email": "Aidan62@gmail.com",
+    "job": "Customer Operations Administrator"
+  },
+  {
+    "id": "bd4b10ec-37df-4b10-9e54-f46f81e1fe6b",
+    "name": "Jimmy Luettgen DDS",
+    "phone": "361-229-2955",
+    "email": "Letha_Murray@hotmail.com",
+    "job": "Corporate Paradigm Manager"
+  },
+  {
+    "id": "6baa6841-2127-471d-9d8a-f6785797dadb",
+    "name": "Victor Moore",
+    "phone": "963-935-0575",
+    "email": "Gennaro.Lehner@yahoo.com",
+    "job": "Product Branding Manager"
+  },
+  {
+    "id": "83b2de6a-844d-4ecc-af52-676a09082e5e",
+    "name": "Esther Bosco",
+    "phone": "1-656-230-6188",
+    "email": "Cortney32@yahoo.com",
+    "job": "International Accounts Technician"
+  },
+  {
+    "id": "77907d00-461f-48fe-994b-245bd12b3952",
+    "name": "Ricky Miller",
+    "phone": "(838) 882-2400",
+    "email": "Jana_Champlin69@yahoo.com",
+    "job": "Senior Configuration Orchestrator"
+  }
+]
